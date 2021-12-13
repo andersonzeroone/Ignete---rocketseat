@@ -1,6 +1,6 @@
 <div align="center">
   <h1 >
-    Projetos dos eventos gratuitos da Rocketseat
+    Projeto desenvolvidos durante o ignite
   </h1>
 </div>
 
