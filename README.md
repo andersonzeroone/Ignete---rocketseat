@@ -32,7 +32,8 @@ Nesse repositório serão exibidos os projetos desenvolvidos durante os estudos 
 ## Projetos
 
   <h3><strong>React Native</strongh3></h3>
-  *[Desafios 1 e 2](sdfsd)
+  
+  * [Desafios 1 e 2](https://github.com/andersonzeroone/Ignete-rocketseat/tree/main/Desafios%201%20e%202)
 
 ---
 
