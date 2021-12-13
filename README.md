@@ -1,6 +1,6 @@
 <div align="center">
   <h1 >
-    Projeto desenvolvidos durante o ignite
+    Projeto desenvolvidos durante o ignite 
   </h1>
 </div>
 
@@ -22,7 +22,7 @@ Além disso, possui alguns planos pagos com algumas trilhas e cada uma focada em
   react
   node.
 
-Nesse repositório serão exibidos os projetos desenvolvidos durante os estudos dentro do ignite como também as experiências.
+Nesse repositório serão exibidos os projetos desenvolvidos durante os estudos dentro do ignite.
 
 </p>
 <br/>
