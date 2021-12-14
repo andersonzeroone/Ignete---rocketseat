@@ -33,8 +33,8 @@ Nesse repositório serão exibidos os projetos desenvolvidos durante os estudos 
 
   <h3><strong>React Native</strongh3></h3>
   
-  * [Desafios 1 e 2](https://github.com/andersonzeroone/Ignete-rocketseat/tree/main/ignite-template-react-native-todos)
-
+  * [Desafios 1 e 2](https://github.com/andersonzeroone/IgniteDesaios1-e2)
+  * [Gofinances](https://github.com/andersonzeroone/goFinances)
 ---
 
 </br>
